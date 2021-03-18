@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Personal website of Ziyu Xiao</title>
+    <link>/about/</link>
+    <description>Recent content in Abouts on Personal website of Ziyu Xiao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Mar 2021 21:48:51 -0700</lastBuildDate><atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>/about/about/</link>
+      <pubDate>Mon, 15 Mar 2021 21:48:51 -0700</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>I am a second year master stundent at the University of Washington Biostatistics Department.
+My passion for biomedical sciences can be traced back to my undergraduate experience where I spent significant time conducting research on neuropharmacology and pharmacoInformatics in the College of Pharmaceutical Sciences at Zhejiang University under the guidance of Xiangnan Zhang , Feng Zhu respectively.
+In my senior year, I got the opportunity to complete my undergraduate study research on NeuroAIDS as an exchange student in the College of Pharmacy at University of South Carolina in Jun Zhu&amp;rsquo;s Lab.</description>
+    </item>
+    
+  </channel>
+</rss>

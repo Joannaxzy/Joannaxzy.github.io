@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal website of Ziyu Xiao</title>
+    <link>/</link>
+    <description>Recent content on Personal website of Ziyu Xiao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Mar 2021 21:48:51 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>/about/about/</link>
+      <pubDate>Mon, 15 Mar 2021 21:48:51 -0700</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>I am a second year master stundent at the University of Washington Biostatistics Department.
+My passion for biomedical sciences can be traced back to my undergraduate experience where I spent significant time conducting research on neuropharmacology and pharmacoInformatics in the College of Pharmaceutical Sciences at Zhejiang University under the guidance of Xiangnan Zhang , Feng Zhu respectively.
+In my senior year, I got the opportunity to complete my undergraduate study research on NeuroAIDS as an exchange student in the College of Pharmacy at University of South Carolina in Jun Zhu&amp;rsquo;s Lab.</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>/contact/contact/</link>
+      <pubDate>Mon, 15 Mar 2021 21:48:51 -0700</pubDate>
+      
+      <guid>/contact/contact/</guid>
+      <description>Ziyu Xiao
+Email: xiaoziyu1997@gmail.com
+Social media: LinkedIn
+If you would like to contact me, please don’t hesitate to send me an email or reach out through LinkedIn.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Sat, 09 Jan 2021 21:48:51 -0700</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Some of my previous projects are listed below
+ Spatial Survival Biomedical Data Science  </description>
+    </item>
+    
+  </channel>
+</rss>
